@@ -19,6 +19,8 @@ application_layer_routing is designed to accomplish with the following goals:
 * self designed network security rules( as a firewall， such as NAT).
 * agent for back-end servers.
 
+* control of network packets forwarding, such as packets drop or bandwidth limit for a single forward route line.
+
 #### Authors
 zhangtr[[github](https://github.com/zhangtianren)]
 
